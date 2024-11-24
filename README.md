@@ -7,7 +7,7 @@ This is a simple web app that allows you to manage your dairy notes.
 
 ## Getting Started
 1. Clone this repository or download the files.
-2. Open the dairy_notes.html file in your web browser.
+2. Open the index.html file in your web browser.
 
 ## Usage
 1. Enter your dairy notes for today in the text input field.
